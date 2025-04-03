@@ -1,0 +1,201 @@
+Order ID,Date,Customer Name,Product,Category,Sales Amount,Quantity,Discount (%),Profit,Region,Payment Mode
+ORD1000,2025-02-23,Jo Moon,Jacket,Clothing,1852.91,2,9.03,219.45,South,Cash on Delivery
+ORD1001,2025-01-31,Lynn Mendez,Shoes,Clothing,2520.9,9,17.73,441.8,West,Net Banking
+ORD1002,2025-02-13,Ebony Lynch,Milk,Groceries,2043.34,3,0.1,300.05,South,Credit Card
+ORD1003,2025-03-22,Christopher Roberts,Laptop,Electronics,1725.83,4,11.54,293.31,South,Debit Card
+ORD1004,2025-03-11,Karen Vasquez,Air Conditioner,Home Appliances,2968.06,9,14.49,391.8,East,UPI
+ORD1005,2025-03-02,Ronald Hill,Eggs,Groceries,1811.09,4,17.44,194.64,South,Cash on Delivery
+ORD1006,2025-03-03,Victoria Matthews,Vacuum Cleaner,Home Appliances,4991.71,7,7.42,1147.46,North,Credit Card
+ORD1007,2025-03-11,Stephen Williams,Shoes,Clothing,2839.54,7,5.23,668.95,East,Net Banking
+ORD1008,2025-03-12,Eric Curry MD,Vegetables,Groceries,1381.98,6,5.94,183.11,West,UPI
+ORD1009,2025-01-26,Megan Horne,Fiction,Books,3297.29,10,16.63,434.16,East,Cash on Delivery
+ORD1010,2025-02-07,Carrie White,Jacket,Clothing,3766.78,3,12.58,1118.92,West,Debit Card
+ORD1011,2025-03-12,Michael Figueroa,Microwave,Home Appliances,465.4,1,6.75,119.17,East,Net Banking
+ORD1012,2025-01-10,Christopher Braun,Eggs,Groceries,3409.96,7,11.95,506.14,East,Debit Card
+ORD1013,2025-02-09,Willie Jones,Vacuum Cleaner,Home Appliances,362.51,4,9.27,88.1,South,Debit Card
+ORD1014,2025-01-18,Dr. Allison Johnson,Laptop,Electronics,457.13,6,11.31,73.13,North,Net Banking
+ORD1015,2025-02-14,Carlos Bennett,Headphones,Electronics,3820.14,7,19.21,787.07,South,Credit Card
+ORD1016,2025-02-14,Stephanie Yoder,Fruits,Groceries,2079.7,2,7.83,256.83,West,UPI
+ORD1017,2025-02-14,Melanie Fisher,Fiction,Books,146.3,6,10.06,20.5,West,Debit Card
+ORD1018,2025-02-12,Christopher Matthews,Vacuum Cleaner,Home Appliances,4466.24,8,11.62,493.02,East,UPI
+ORD1019,2025-01-02,Mark Warren,Vacuum Cleaner,Home Appliances,231.02,8,11.86,66.44,North,Credit Card
+ORD1020,2025-02-11,Donald Mccoy,T-Shirt,Clothing,2373.18,7,11.42,643.62,West,Credit Card
+ORD1021,2025-03-03,Patricia Doyle,Shoes,Clothing,2590.29,4,9.24,463.58,West,Net Banking
+ORD1022,2025-01-26,Phillip Adams,Eggs,Groceries,2503.95,8,9.5,383.3,North,Net Banking
+ORD1023,2025-01-08,Dana Little,Fruits,Groceries,4021.87,8,15.87,973.8,North,Credit Card
+ORD1024,2025-03-07,Veronica Schroeder,Washing Machine,Home Appliances,523.97,1,15.98,89.47,South,Cash on Delivery
+ORD1025,2025-02-19,Peter Miller,History,Books,3086.89,5,4.63,811.03,North,Cash on Delivery
+ORD1026,2025-01-20,Amy Mullins,Bread,Groceries,939.09,10,8.76,148.92,North,UPI
+ORD1027,2025-02-05,Joe Aguilar,Science,Books,2275.4,4,11.89,591.32,East,Debit Card
+ORD1028,2025-02-13,Tracy Hendricks,Tablet,Electronics,1069.36,4,10.89,197.21,West,UPI
+ORD1029,2025-02-10,Brenda Gonzalez,Jeans,Clothing,1464.49,10,12.66,293.82,West,Debit Card
+ORD1030,2025-01-01,Diane Banks,Laptop,Electronics,4274.51,6,11.74,1067.11,West,Credit Card
+ORD1031,2025-02-22,Chris Copeland,Microwave,Home Appliances,4924.26,6,6.87,537.38,South,Debit Card
+ORD1032,2025-01-10,Jennifer Turner,Bread,Groceries,3438.31,9,5.12,985.13,South,Cash on Delivery
+ORD1033,2025-01-27,Betty Torres,Smartphone,Electronics,4869.22,1,10.21,1010.83,East,Debit Card
+ORD1034,2025-01-31,Jennifer Gonzalez,History,Books,4852.35,8,9.76,772.82,East,Net Banking
+ORD1035,2025-02-04,Brett Evans,Tablet,Electronics,1777.27,8,19.59,207.79,South,Debit Card
+ORD1036,2025-01-08,James Andersen,Smartphone,Electronics,2900.0,3,17.64,372.62,West,Net Banking
+ORD1037,2025-01-13,John Jones,Eggs,Groceries,808.14,10,12.63,237.56,South,Credit Card
+ORD1038,2025-03-04,Casey Bell,Bread,Groceries,3663.05,5,13.98,740.08,West,Debit Card
+ORD1039,2025-03-01,Brenda Snyder,Non-Fiction,Books,1571.34,2,19.77,448.44,East,Cash on Delivery
+ORD1040,2025-02-20,Travis Miller,T-Shirt,Clothing,779.08,4,16.62,169.63,North,UPI
+ORD1041,2025-01-30,Amy Drake,Eggs,Groceries,1920.35,10,2.52,265.45,North,Net Banking
+ORD1042,2025-02-20,Brandon Jones,Non-Fiction,Books,2085.13,7,3.78,314.29,South,Credit Card
+ORD1043,2025-01-06,Louis Robertson,History,Books,1446.76,6,8.91,324.14,East,Debit Card
+ORD1044,2025-01-18,Daniel Reyes,Milk,Groceries,3651.76,5,3.83,953.25,South,Net Banking
+ORD1045,2025-03-02,Laura Olson,Vacuum Cleaner,Home Appliances,3910.17,1,2.27,1026.96,South,Debit Card
+ORD1046,2025-01-12,Mrs. Connie Wolf DDS,Smartphone,Electronics,2160.64,4,9.56,240.51,East,Net Banking
+ORD1047,2025-01-01,Ethan Lopez,Mystery,Books,4057.33,5,18.32,1044.4,East,Credit Card
+ORD1048,2025-01-25,Lisa Lutz,Bread,Groceries,2793.01,7,3.65,569.39,West,Credit Card
+ORD1049,2025-02-15,Alyssa Mitchell,Vacuum Cleaner,Home Appliances,2489.97,2,13.35,742.36,South,Debit Card
+ORD1050,2025-03-20,Kristen Hensley,Laptop,Electronics,560.24,3,13.0,121.35,North,Debit Card
+ORD1051,2025-01-09,Andre Mora,Microwave,Home Appliances,1004.63,8,3.77,125.06,North,Cash on Delivery
+ORD1052,2025-02-04,Kristina Watson,Milk,Groceries,2641.28,6,10.72,316.95,South,Debit Card
+ORD1053,2025-02-12,Stacy Melton,Cap,Clothing,4704.72,4,8.09,1409.85,East,Cash on Delivery
+ORD1054,2025-01-31,Aaron Campbell,Washing Machine,Home Appliances,3103.66,6,1.23,888.33,West,UPI
+ORD1055,2025-01-13,Rebecca Garcia,Smartphone,Electronics,3820.56,1,9.16,827.87,East,Credit Card
+ORD1056,2025-01-20,Megan Carr,Cap,Clothing,1319.05,10,17.21,215.96,North,UPI
+ORD1057,2025-01-27,Virginia Reyes,Jacket,Clothing,1915.37,5,5.63,483.14,East,Credit Card
+ORD1058,2025-03-21,Lisa Stevens,Mystery,Books,3697.94,8,12.69,381.82,South,Cash on Delivery
+ORD1059,2025-03-21,Andrew Bolton,Vacuum Cleaner,Home Appliances,2557.89,8,11.72,689.26,South,Cash on Delivery
+ORD1060,2025-03-04,Johnny Nielsen,Jeans,Clothing,3142.39,5,14.57,752.59,South,Debit Card
+ORD1061,2025-01-07,Andrew Sullivan,Jacket,Clothing,1109.23,9,16.81,116.06,South,Credit Card
+ORD1062,2025-03-10,Brenda Hicks,Refrigerator,Home Appliances,4478.06,4,12.92,1342.58,East,Debit Card
+ORD1063,2025-02-20,Dana Morales,Shoes,Clothing,2143.45,2,17.31,477.0,South,Net Banking
+ORD1064,2025-01-25,Christine Santos,Jeans,Clothing,272.25,9,7.38,33.28,East,Credit Card
+ORD1065,2025-03-12,Dakota Christian,Vacuum Cleaner,Home Appliances,2672.65,4,3.47,593.11,North,UPI
+ORD1066,2025-03-04,Phyllis Perkins,Science,Books,3911.02,3,18.59,1109.07,West,Credit Card
+ORD1067,2025-02-17,Brian Huffman,Jacket,Clothing,2762.1,2,17.73,826.31,East,Credit Card
+ORD1068,2025-02-25,Derek Holmes,Non-Fiction,Books,1215.1,6,14.7,363.32,West,Debit Card
+ORD1069,2025-01-09,Jasmine Rubio,Milk,Groceries,4964.29,5,11.78,1472.36,South,Cash on Delivery
+ORD1070,2025-03-19,Virginia Vazquez,Jacket,Clothing,3332.77,4,6.41,954.74,West,Credit Card
+ORD1071,2025-01-09,Justin Daniels,Air Conditioner,Home Appliances,3699.83,6,17.96,656.6,South,Credit Card
+ORD1072,2025-01-04,Brooke Holder,Mystery,Books,632.82,6,15.46,88.69,North,Credit Card
+ORD1073,2025-02-03,Amber Rojas,Vacuum Cleaner,Home Appliances,1795.78,2,16.53,432.0,North,UPI
+ORD1074,2025-03-01,Joseph Meyers,Milk,Groceries,1111.66,7,6.34,286.79,South,Cash on Delivery
+ORD1075,2025-01-06,Zachary Ruiz,Jacket,Clothing,3915.02,2,16.77,490.9,South,Debit Card
+ORD1076,2025-03-12,Christopher Taylor,Eggs,Groceries,219.81,2,19.64,39.15,East,UPI
+ORD1077,2025-03-01,Mr. Brian Smith,T-Shirt,Clothing,4309.62,8,3.7,459.88,South,UPI
+ORD1078,2025-02-13,Dana Rodriguez,Vacuum Cleaner,Home Appliances,3186.09,8,11.85,383.43,West,Cash on Delivery
+ORD1079,2025-02-18,Tina Anderson,Cap,Clothing,3950.1,7,11.85,434.01,West,Cash on Delivery
+ORD1080,2025-01-02,Tom Schneider,Vegetables,Groceries,2217.59,6,17.62,621.59,North,Credit Card
+ORD1081,2025-02-05,Barbara Jimenez,Jacket,Clothing,4216.65,7,10.42,977.92,North,Credit Card
+ORD1082,2025-03-20,Erica Cowan,Non-Fiction,Books,2932.32,4,18.89,578.81,South,Cash on Delivery
+ORD1083,2025-02-24,Dustin Johnson,Laptop,Electronics,2692.72,3,16.13,722.9,East,Cash on Delivery
+ORD1084,2025-01-20,Harold Adams,Vacuum Cleaner,Home Appliances,2085.8,1,5.18,609.19,West,Cash on Delivery
+ORD1085,2025-01-03,Jessica Davis,Eggs,Groceries,3562.09,3,13.84,1052.74,North,Credit Card
+ORD1086,2025-01-19,Shannon Marshall,Fruits,Groceries,3673.69,2,3.6,644.99,South,Net Banking
+ORD1087,2025-02-21,Robert Estrada,Smartphone,Electronics,676.49,10,14.25,68.86,East,Net Banking
+ORD1088,2025-01-25,Stephen Torres,Fruits,Groceries,2598.26,1,12.49,606.4,East,Cash on Delivery
+ORD1089,2025-01-14,Shannon Holder,Jacket,Clothing,2264.13,2,15.69,243.32,West,Credit Card
+ORD1090,2025-02-20,Christopher Logan,History,Books,4828.51,3,9.96,530.77,East,Credit Card
+ORD1091,2025-02-01,Jerry Crosby,Microwave,Home Appliances,1947.05,3,5.07,368.95,West,Credit Card
+ORD1092,2025-02-25,Ashley Wallace,T-Shirt,Clothing,2590.98,8,5.82,644.3,East,Net Banking
+ORD1093,2025-03-08,Kelly Brown,Non-Fiction,Books,804.48,1,14.61,165.33,North,Debit Card
+ORD1094,2025-01-07,John Burke,Jeans,Clothing,1634.69,6,0.1,469.51,North,Credit Card
+ORD1095,2025-02-15,Jacob Dudley,Cap,Clothing,417.78,9,6.57,57.16,West,Debit Card
+ORD1096,2025-02-28,Kenneth Baker,Washing Machine,Home Appliances,3736.13,10,7.57,884.05,South,Debit Card
+ORD1097,2025-01-07,Eugene Gilbert,Eggs,Groceries,4817.23,2,11.03,1299.43,West,Credit Card
+ORD1098,2025-02-10,Samantha Becker,Milk,Groceries,4421.63,3,7.07,567.21,West,Cash on Delivery
+ORD1099,2025-03-19,Anna Wilson,Fiction,Books,1899.54,9,13.27,395.76,East,Net Banking
+ORD1100,2025-02-18,Connie Castro,Microwave,Home Appliances,4971.46,9,19.38,589.53,East,Credit Card
+ORD1101,2025-02-05,Jeffrey Taylor,Smartwatch,Electronics,2700.52,3,7.8,511.12,East,Debit Card
+ORD1102,2025-03-09,Clifford Garcia,Fruits,Groceries,4621.01,9,15.12,1228.39,East,Net Banking
+ORD1103,2025-02-10,Dennis Goodman,Smartwatch,Electronics,2522.37,8,15.33,268.23,South,Net Banking
+ORD1104,2025-02-24,Jennifer Ortega,History,Books,525.86,1,11.07,149.71,West,Credit Card
+ORD1105,2025-01-15,Mark Swanson,Air Conditioner,Home Appliances,3352.87,7,10.02,702.54,South,Cash on Delivery
+ORD1106,2025-02-17,Craig Kelly,Smartphone,Electronics,186.99,3,14.11,26.48,East,UPI
+ORD1107,2025-02-25,Melissa Mason,Headphones,Electronics,3272.62,10,2.95,385.08,West,Cash on Delivery
+ORD1108,2025-01-31,Juan Bolton DDS,Vegetables,Groceries,1803.13,10,13.55,531.74,West,Debit Card
+ORD1109,2025-01-26,Shane Moore,Mystery,Books,1146.63,7,15.52,130.13,East,UPI
+ORD1110,2025-03-08,Linda Sandoval,Air Conditioner,Home Appliances,4382.99,1,7.63,598.67,West,Net Banking
+ORD1111,2025-02-03,Matthew Copeland,Shoes,Clothing,4380.76,4,17.42,1113.11,North,Credit Card
+ORD1112,2025-01-13,Xavier Cuevas,Milk,Groceries,2323.86,4,2.58,332.91,West,Debit Card
+ORD1113,2025-01-03,Mr. Bruce Lynch,Fiction,Books,328.36,6,3.74,74.96,East,Credit Card
+ORD1114,2025-01-08,Richard Thompson,Vegetables,Groceries,842.54,1,18.76,148.9,East,Credit Card
+ORD1115,2025-01-01,Jenny Moore,Mystery,Books,2099.44,5,16.28,495.4,South,Debit Card
+ORD1116,2025-02-17,Monica Lozano,T-Shirt,Clothing,3760.56,9,14.26,831.97,East,Net Banking
+ORD1117,2025-03-06,Tiffany Richmond,Non-Fiction,Books,4246.85,8,5.79,867.35,East,Cash on Delivery
+ORD1118,2025-01-25,Jennifer Tate,Microwave,Home Appliances,3836.03,3,9.22,489.34,South,Credit Card
+ORD1119,2025-03-13,Michael White,Jacket,Clothing,4777.41,5,19.51,498.67,East,Credit Card
+ORD1120,2025-01-16,Brian Baker,Refrigerator,Home Appliances,1209.28,8,16.48,282.19,East,Debit Card
+ORD1121,2025-03-01,James Ramos,Fruits,Groceries,1716.3,2,8.89,217.92,South,Credit Card
+ORD1122,2025-03-10,Thomas Ritter,Eggs,Groceries,3464.89,10,17.17,808.94,North,UPI
+ORD1123,2025-02-09,Colin Massey,Non-Fiction,Books,3252.51,10,3.47,444.68,South,Debit Card
+ORD1124,2025-03-16,Amanda Zimmerman,Tablet,Electronics,954.05,4,19.62,127.56,North,Cash on Delivery
+ORD1125,2025-02-11,Justin Sandoval II,Fruits,Groceries,4381.09,9,14.05,567.06,South,Credit Card
+ORD1126,2025-03-21,Beverly Lopez,Jacket,Clothing,4484.62,1,9.62,601.46,East,Credit Card
+ORD1127,2025-03-20,Laura Hardin,Washing Machine,Home Appliances,4702.45,8,19.46,1334.55,West,Cash on Delivery
+ORD1128,2025-03-05,David Cox,Vegetables,Groceries,3196.78,10,11.25,819.11,East,UPI
+ORD1129,2025-01-14,Misty Henderson,Milk,Groceries,4370.53,10,12.79,1100.94,North,Cash on Delivery
+ORD1130,2025-03-01,Sarah Boyle,Washing Machine,Home Appliances,419.37,8,11.69,82.38,South,Debit Card
+ORD1131,2025-02-01,Lori Lane,Fruits,Groceries,238.52,7,5.81,34.21,West,Credit Card
+ORD1132,2025-01-11,Jason Bowman,Milk,Groceries,2866.96,2,3.07,740.05,South,Cash on Delivery
+ORD1133,2025-03-11,Michael Henson,Washing Machine,Home Appliances,3889.93,7,17.29,787.34,East,Credit Card
+ORD1134,2025-03-02,Johnny Simmons,Vacuum Cleaner,Home Appliances,3186.22,6,13.88,474.02,West,Credit Card
+ORD1135,2025-02-14,Kaylee Mcdonald,Milk,Groceries,2787.14,9,8.33,717.92,East,UPI
+ORD1136,2025-01-06,Kevin Potter,Vacuum Cleaner,Home Appliances,4377.98,7,13.45,973.74,North,Credit Card
+ORD1137,2025-01-14,Bradley Hernandez,Mystery,Books,2004.84,10,14.2,262.56,South,Net Banking
+ORD1138,2025-03-08,Mr. Ronald Smith MD,Milk,Groceries,3271.81,5,16.97,515.37,West,Cash on Delivery
+ORD1139,2025-02-04,Larry Hall,Air Conditioner,Home Appliances,376.0,10,1.74,48.38,West,Credit Card
+ORD1140,2025-03-05,Kevin Clark,Non-Fiction,Books,4365.84,1,12.46,1177.6,South,Cash on Delivery
+ORD1141,2025-02-03,Sandra Miles,Microwave,Home Appliances,4580.74,2,15.3,812.74,North,Net Banking
+ORD1142,2025-02-19,James Mcbride,Science,Books,3515.94,9,10.3,448.81,North,UPI
+ORD1143,2025-01-19,Maria Taylor,Jacket,Clothing,679.08,2,11.81,151.04,East,Net Banking
+ORD1144,2025-02-09,David Howell,Air Conditioner,Home Appliances,2871.44,3,18.65,532.0,South,Cash on Delivery
+ORD1145,2025-01-04,William Mills,T-Shirt,Clothing,505.74,5,9.63,66.44,East,Net Banking
+ORD1146,2025-01-22,Kathryn Wheeler,Washing Machine,Home Appliances,4665.06,8,9.22,553.15,East,UPI
+ORD1147,2025-01-27,John Cruz,T-Shirt,Clothing,4680.06,2,0.91,1056.7,East,Debit Card
+ORD1148,2025-03-17,Karen Baldwin,Tablet,Electronics,3479.7,3,19.02,808.72,North,Credit Card
+ORD1149,2025-03-11,John Johnston,Jeans,Clothing,386.15,8,19.84,107.7,North,Cash on Delivery
+ORD1150,2025-03-07,Todd Haynes,History,Books,3189.9,9,5.48,563.51,East,Debit Card
+ORD1151,2025-01-26,Christopher Parker,Milk,Groceries,3512.02,6,17.28,527.23,North,Net Banking
+ORD1152,2025-02-10,Joshua Martinez,Cap,Clothing,4865.23,4,5.52,1087.49,East,UPI
+ORD1153,2025-02-16,Carrie Mccullough,Jacket,Clothing,4851.36,7,19.94,1223.39,East,Debit Card
+ORD1154,2025-02-21,Kenneth Young,Mystery,Books,4469.29,10,0.53,1327.95,North,UPI
+ORD1155,2025-03-15,Timothy Church,Science,Books,1736.84,1,4.42,498.09,South,Net Banking
+ORD1156,2025-01-04,Kelly Webster,Air Conditioner,Home Appliances,3102.96,8,8.44,716.41,West,Net Banking
+ORD1157,2025-01-27,Hayden Arnold,Fiction,Books,4330.46,8,17.7,1094.16,East,UPI
+ORD1158,2025-02-15,Michael Collins,Smartwatch,Electronics,3855.18,8,15.77,877.35,West,UPI
+ORD1159,2025-03-15,Maria Cross,Eggs,Groceries,555.33,2,4.56,106.18,North,Debit Card
+ORD1160,2025-02-08,Jasmine Johnson,Microwave,Home Appliances,4237.14,6,10.0,656.22,East,Credit Card
+ORD1161,2025-01-31,Russell Young,T-Shirt,Clothing,1338.12,8,8.83,274.3,East,Cash on Delivery
+ORD1162,2025-01-29,Linda Johnson,Smartphone,Electronics,2895.34,7,11.43,541.78,East,UPI
+ORD1163,2025-01-28,William Yates,Non-Fiction,Books,309.89,9,17.53,49.06,East,Cash on Delivery
+ORD1164,2025-03-14,Michael Rojas,Headphones,Electronics,3287.87,3,12.29,552.27,North,UPI
+ORD1165,2025-03-08,Miranda Norton,Shoes,Clothing,1807.51,3,6.76,225.54,North,Net Banking
+ORD1166,2025-03-07,Janet Norris,Washing Machine,Home Appliances,2982.36,1,18.38,463.98,North,Cash on Delivery
+ORD1167,2025-01-11,Paul Lewis,Vegetables,Groceries,4710.25,10,13.99,1362.78,South,Credit Card
+ORD1168,2025-03-08,Haley Williams,Smartphone,Electronics,3094.64,8,8.37,704.58,South,Cash on Delivery
+ORD1169,2025-02-06,Amber Ali,Cap,Clothing,4646.45,10,5.21,1008.45,South,Debit Card
+ORD1170,2025-02-22,Angel Murphy,Washing Machine,Home Appliances,4032.85,7,1.2,532.34,East,Debit Card
+ORD1171,2025-02-17,Tiffany Randolph,Washing Machine,Home Appliances,1923.56,4,0.93,341.93,South,Cash on Delivery
+ORD1172,2025-01-24,Taylor Perez,Jacket,Clothing,1189.33,2,2.14,274.89,East,Credit Card
+ORD1173,2025-01-13,Brittany Robinson,Jacket,Clothing,104.01,10,3.42,30.4,South,Debit Card
+ORD1174,2025-01-30,Nancy Faulkner,Jacket,Clothing,164.69,10,14.55,34.81,West,Net Banking
+ORD1175,2025-02-15,Joe Howe,Fruits,Groceries,1496.58,1,12.4,236.15,East,Cash on Delivery
+ORD1176,2025-01-09,Thomas Duffy,Tablet,Electronics,1028.03,8,11.68,221.07,South,Credit Card
+ORD1177,2025-01-09,Jennifer Anderson,Milk,Groceries,582.11,10,12.84,160.22,North,Net Banking
+ORD1178,2025-02-02,Amber Moore,Jeans,Clothing,1581.15,9,0.42,190.31,East,Credit Card
+ORD1179,2025-01-02,Richard Zimmerman,Vacuum Cleaner,Home Appliances,1736.84,8,15.49,458.9,East,Debit Card
+ORD1180,2025-01-28,Natasha Rose,Non-Fiction,Books,801.61,4,12.96,201.33,North,Net Banking
+ORD1181,2025-02-04,Donna Richmond,Washing Machine,Home Appliances,3198.93,5,4.19,886.68,West,Cash on Delivery
+ORD1182,2025-03-07,Bill Henry,Cap,Clothing,4574.07,6,17.06,1321.18,East,Net Banking
+ORD1183,2025-01-08,Tyrone Guzman,Eggs,Groceries,861.81,7,16.97,197.68,West,Cash on Delivery
+ORD1184,2025-03-10,Elizabeth Parks,Milk,Groceries,4664.74,10,0.48,781.29,North,Cash on Delivery
+ORD1185,2025-03-04,Sabrina Davis,Refrigerator,Home Appliances,651.64,1,1.69,129.0,East,Credit Card
+ORD1186,2025-02-25,Karen Anderson,Jacket,Clothing,558.33,6,8.62,130.1,West,UPI
+ORD1187,2025-02-02,James Davis,Washing Machine,Home Appliances,4032.67,4,6.93,1002.29,East,Net Banking
+ORD1188,2025-03-05,Samuel Rogers,Smartwatch,Electronics,4015.11,5,6.84,666.46,North,Debit Card
+ORD1189,2025-03-11,Francisco Graham,Eggs,Groceries,844.06,4,18.49,191.29,East,Cash on Delivery
+ORD1190,2025-01-07,Tina Campbell,Shoes,Clothing,1415.86,4,0.98,202.46,North,UPI
+ORD1191,2025-02-27,Timothy Johnson,Fiction,Books,2168.29,5,13.04,640.48,North,UPI
+ORD1192,2025-01-15,Caitlin Long,Cap,Clothing,741.45,9,10.21,139.84,West,UPI
+ORD1193,2025-03-13,Alan Chandler,Smartphone,Electronics,4710.39,8,17.62,478.25,West,Net Banking
+ORD1194,2025-02-17,Jesus Banks,Microwave,Home Appliances,4179.0,8,12.9,1098.23,North,UPI
+ORD1195,2025-01-09,Jesus Jones,Science,Books,3620.3,7,16.35,639.63,North,Cash on Delivery
+ORD1196,2025-01-22,Mary Jones,Jacket,Clothing,4500.05,8,11.63,801.99,East,Credit Card
+ORD1197,2025-03-11,Anthony Mullen,Refrigerator,Home Appliances,4490.57,5,9.06,754.52,East,Debit Card
+ORD1198,2025-01-19,Kayla Sandoval,Mystery,Books,976.47,1,7.83,218.94,East,Debit Card
+ORD1199,2025-02-01,Nicole Miller,Jacket,Clothing,4890.61,5,2.36,1229.11,West,Cash on Delivery
